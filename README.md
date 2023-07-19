@@ -1,2 +1,2 @@
-# amandacohen.github.io
+# amandaeco.github.io
  My Portfolio Website
